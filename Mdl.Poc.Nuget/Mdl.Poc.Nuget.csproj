@@ -1,9 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
+    <TargetFrameworks>net5.0;net6.0</TargetFrameworks>
     <Nullable>enable</Nullable>
+    <PackageVersion>1.0.1</PackageVersion>
+    <RepositoryUrl>https://github.com/Metalaka/Mdl.Poc.Nuget</RepositoryUrl>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
 </Project>
