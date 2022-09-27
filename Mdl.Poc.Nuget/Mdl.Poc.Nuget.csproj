@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFrameworks>net5.0;net6.0</TargetFrameworks>
     <Nullable>enable</Nullable>
-    <PackageVersion>1.0.1</PackageVersion>
+    <PackageVersion>1.0.2</PackageVersion>
     <RepositoryUrl>https://github.com/Metalaka/Mdl.Poc.Nuget</RepositoryUrl>
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
